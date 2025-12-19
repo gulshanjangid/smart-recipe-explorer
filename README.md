@@ -8,7 +8,8 @@ This project is a MERN stack application that allows users to explore recipes, f
 - **Database**: MongoDB (Mongoose)
 - **AI Integration**: Groq API (Llama-3.1-8b-instant)
 
-![Uploading Screenshot 2025-12-18 233334.png…]()
+<img width="1855" height="836" alt="Screenshot 2025-12-18 233334" src="https://github.com/user-attachments/assets/aeebf9c2-7bd9-4827-bc48-c0b30d925215" />
+
 
 
 ## Project Structure
